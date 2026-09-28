@@ -1,0 +1,10 @@
+{
+  "appid": "touristappid",
+  "compileType": "game",
+  "libVersion": "3.0.0",
+  "projectname": "treasure-shop-minigame",
+  "setting": {
+    "es6": true,
+    "minified": false
+  }
+}
